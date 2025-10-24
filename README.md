@@ -4,7 +4,7 @@
 
 <img src="https://ltdfoto.ru/images/2025/10/22/user_bot_robot_icon_146900.png" width="100"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Бот+для+управления+ПК+в+telegram)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230FFF0F5&lines=Бот+для+управления+ПК+в+Telegram)](https://git.io/typing-svg)
 
 👨‍💻 Бот от @Steamtlsm — это мощный инструмент для удалённого управления твоим ПК прямо из Telegram.
 Просто установи бота, подключи свой токен — и получи полный контроль над системой где бы ты ни находился!
