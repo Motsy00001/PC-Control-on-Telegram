@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-# PC-BOT-Telegram
+# PC Control on Telegram
 
 <img src="https://ltdfoto.ru/images/2025/10/22/user_bot_robot_icon_146900.png" width="100"/>
 
