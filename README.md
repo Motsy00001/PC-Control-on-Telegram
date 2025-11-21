@@ -65,7 +65,7 @@
 	
 # КЛЮЧ ПОКУПАЕТСЯ НАВСЕГДА.
 Для покупки ключа активации писать в Telegram: @steamtlsm
-Стоимость ключа: 129Rub
+Стоимость ключа: 99Rub
 
 <div id="badges">
   <a href="https://t.me/STEAMTLSM">
